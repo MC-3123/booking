@@ -1,4 +1,0 @@
-C:\Users\mattc\Source\Repos\DoctorVisit\DoctorVisit\DoctorVisit.Core\bin\Debug\DoctorVisit.Core.dll
-C:\Users\mattc\Source\Repos\DoctorVisit\DoctorVisit\DoctorVisit.Core\bin\Debug\DoctorVisit.Core.pdb
-C:\Users\mattc\Source\Repos\DoctorVisit\DoctorVisit\DoctorVisit.Core\obj\Debug\DoctorVisit.Core.dll
-C:\Users\mattc\Source\Repos\DoctorVisit\DoctorVisit\DoctorVisit.Core\obj\Debug\DoctorVisit.Core.pdb
